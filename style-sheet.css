@@ -26,7 +26,7 @@ div.toc-column li {
     }
 }
 div.toc-column li a {
-    color: white;
+    color: lightgray;
 }
 div.content-column {
     width: calc(100% - 10em);
